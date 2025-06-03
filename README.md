@@ -149,14 +149,6 @@ This project was developed as part of the Computer Networks and Network Programm
 - Managing concurrent operations
 - Handling network failures and topology changes
 
-## 🤝 Contributing
-
-This is an academic project. If you're a student working on a similar assignment, feel free to use this as a reference, but please ensure you understand the concepts and write your own implementation.
-
-## 📄 License
-
-This project is part of academic coursework. Please refer to your institution's academic integrity policies before using this code.
-
 ## 👤 Author
 
 **Krzysztof Przybysz**  
